@@ -27,6 +27,8 @@ public class Principal { // Classe que contém o método principal.
 		// Exibir um string usando printf.
 		System.out.printf("Olá %s!", nome);
 		in.close();
+		
+		// Nota: implementar leitura da idade e exibi-la
 	}
 
 }
